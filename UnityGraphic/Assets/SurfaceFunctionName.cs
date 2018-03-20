@@ -5,5 +5,8 @@ public enum SurfaceFunctionName {
     Sine2D,
     MultiSine,
     MultiSine2D,
-    Ripple
+    Ripple,
+    Cylinder,
+    Sphere, 
+    Torus
 }

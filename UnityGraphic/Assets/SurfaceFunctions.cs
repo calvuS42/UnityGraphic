@@ -1,4 +1,4 @@
 ﻿using UnityEngine;
 
-public delegate float SurfaceFunction(float x, float z, float t);
+public delegate Vector3 SurfaceFunction(float u, float v, float t);
 
